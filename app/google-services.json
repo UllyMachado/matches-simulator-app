@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726073719209",
+    "project_id": "simulador-de-partidas-times",
+    "storage_bucket": "simulador-de-partidas-times.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726073719209:android:5ea30f2e545d6b405f2cb8",
+        "android_client_info": {
+          "package_name": "me.dio.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726073719209-on6ugl8a56t1vicir5uejsnre1elai9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xJwT8fnnwagUBnOk7W4okQejxuqRYL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726073719209-on6ugl8a56t1vicir5uejsnre1elai9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
